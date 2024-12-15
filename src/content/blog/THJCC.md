@@ -1,6 +1,6 @@
 ---
 title: THJCC CTF Writeup
-description: 台灣高中聯合資安競賽
+description: THJCC CTF Writeup
 pubDate: 05 01 2023
 categories:
   - tech
