@@ -77,8 +77,8 @@ app.listen(3000, '0.0.0.0', () => {
 上網查一下就可以知道在沒有硬控制加上 `/` 的情況就可以用 `@` 讓他訪問後面的網址
 像是 : 
 
-https://google.com@tusoar.tech  -> 會去 tusoar.tech
-https://google.com/@tusoar.tech -> 會去 google.com 然後他會把後面當路徑
+* https://google.com@tusoar.tech  -> 會去 tusoar.tech
+* https://google.com/@tusoar.tech -> 會去 google.com 然後他會把後面當路徑
 
 好講回來題目，所以我們只需要給一個
 
@@ -128,10 +128,10 @@ http://cha-thjcc.scint.org:10068/fetch?scheme=htTp://&host=blog&path=@secret.fla
 
 ### Unintended Solution
 
-由於我在檢查時使用了 
-`scheme.startsWith('http://');`
-而不是 `scheme.startsWith('http');`
-所以 @legendyang 也利用拼回去的方式解出這題
+由於我在檢查時使用了 <br />
+`scheme.startsWith('http://');` <br />
+而不是 `scheme.startsWith('http');` <br />
+所以 @legendyang 也利用拼回去的方式解出這題 <br />
 
 ```
 http://cha-thjcc.scint.org:10068/fetch?scheme=http&host=://sec&path=@secret.flag.thjcc.tw:80/
