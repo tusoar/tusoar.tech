@@ -1,6 +1,7 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 // Site title and description
+export const SITE_LANG = "en";
 export const SITE_TAB = "tusoar";
 export const SITE_TITLE = "tusoar's blog";
 export const SITE_DESCRIPTION = "tusoar's blog";
@@ -58,36 +59,17 @@ export const menuItems = [
       }, // Life category
     ],
   }, // Blog page with sub-items
-  {
-    id: "project",
-    text: "Project",
-    href: "/project",
-    svg: "material-symbols:code-blocks-outline",
-    target: "_self",
-  }, // Projects page
-  {
-    id: "friend",
-    text: "Friend",
-    href: "/friend",
-    svg: "material-symbols:supervisor-account-outline-rounded",
-    target: "_self",
-  }, // Friends page
-  {
-    id: "contact",
-    text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
-    target: "_blank", // Open in a new tab
-    svg: "material-symbols:attach-email-outline-rounded",
-  },
+
 ];
 
 // Social media and contact icons
 export const socialIcons = [
+
   {
     href: "https://x.com/soar_tu",
-    ariaLabel: "twitter",
-    title: "twitter",
-    svg: "twitter",
+    ariaLabel: "Twitter",
+    title: "Twitter",
+    svg: "ri:twitter-line",
   },
   {
     href: "https://github.com/tusoar",
@@ -97,8 +79,10 @@ export const socialIcons = [
   },
   {
     href: "https://zeroday.hitcon.org/user/tusoar",
-    ariaLabel: "Hitcon ZeroDay",
-    title: "Hitcon ZeroDay",
-    svg: "secret",
+    ariaLabel: "Hitcon",
+    title: "Hitcon",
+    svg: "ri:terminal-box-line",
   }
+
+
 ];
