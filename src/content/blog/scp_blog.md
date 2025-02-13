@@ -74,4 +74,4 @@ tags:
 
 最後，我還是想把備審分享出去，幫助那些也是第一個在學校特殊選才的人。
 
-[我的備審](https://drive.google.com/file/d/1vmshNeMgf7dGyPhuokha9y389q6CYyEA/view?usp=sharing)
+[我的備審](https://drive.google.com/file/d/12E4VxyC9i3ep0cZFUVDwM0eYeHWSWx2k/view?usp=sharing)
