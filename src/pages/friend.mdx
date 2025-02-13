@@ -1,0 +1,35 @@
+import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseCard from "../components/BaseCard.astro";
+import Collapse from "../components/mdx/Collapse.astro";
+import Diff from "../components/mdx/Diff.astro";
+import Error from "../components/mdx/Error.astro";
+import Info from "../components/mdx/Info.astro";
+import Kbd from "../components/mdx/Kbd.astro";
+import Success from "../components/mdx/Success.astro";
+import Warning from "../components/mdx/Warning.astro";
+import TimeLine from "../components/mdx/TimeLine.astro";
+import LinkCard from "../components/mdx/LinkCard.astro";
+
+<BaseLayout title="Friend">
+  <BaseCard title="Friend">
+# Friend
+
+---
+
+    <div class="grid grid-cols-2 gap-4">
+      <LinkCard
+        title="此情吳計可消除"
+        desc="地奧國手"
+        url="https://yih-0118.github.io/"
+        img="https://yih-0118.github.io/69842.jpg"
+      />
+      <LinkCard
+        title="chao28661"
+        desc="資安電神"
+        url="https://blog.chaontc.tw/"
+        img="https://blog.chaontc.tw/images/logo.png"
+      />
+    </div>
+
+  </BaseCard>
+</BaseLayout>

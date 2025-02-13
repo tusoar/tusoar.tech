@@ -58,7 +58,21 @@ export const menuItems = [
         target: "_self",
       }, // Life category
     ],
-  }, // Blog page with sub-items
+  },
+  {
+    id: "friend",
+    text: "Friend",
+    href: "/friend",
+    svg: "material-symbols:supervisor-account-outline-rounded",
+    target: "_self",
+  }, // Friend page
+  {
+    id: "contact",
+    text: "Contact",
+    href: "mailto:imsoartu@gmail.com", // Contact email
+    target: "_blank", // Open in a new tab
+    svg: "material-symbols:attach-email-outline-rounded",
+  },
 
 ];
 
