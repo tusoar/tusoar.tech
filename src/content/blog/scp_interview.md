@@ -51,13 +51,13 @@ int main(){
 
 1.
 
-![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_1671ec1cd869d501311a642ed97ed02f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739419265&Signature=ndC8RuCR%2BDEepvSBiuab8bP4wP4%3D)
+![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_1671ec1cd869d501311a642ed97ed02f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739425577&Signature=t%2B31I2k72bPneuYBoP1cQSCD%2BFI%3D)
 
 * 問 rws 中的 s 是做甚麼用的
 
 2. 
 
-![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_069218c97161b8c71993ce2f3a4ea11f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739419277&Signature=LtsQWiam43DloZ4BqP9rDj7NZBU%3D)
+![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_1671ec1cd869d501311a642ed97ed02f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739425598&Signature=R6CjrLM1ZB3lD5Bk1J6aSstTD94%3D)
 
 * 為什麼他的容量是 0 Byte
 
@@ -74,7 +74,7 @@ int main(){
 * ip 分享器原理
 3.
 
-![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_bbe5dbd39639c1416edcb3fbfa46d21f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739419287&Signature=HFTfAV9BUyvmNIyCIZlByDDbXfI%3D)
+![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_bbe5dbd39639c1416edcb3fbfa46d21f.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1739425611&Signature=TSdX3KukGP%2BVXBCErJ%2FbH%2FqZLp0%3D)
 
 * 請至少說出三種原因為何造成這樣
 
