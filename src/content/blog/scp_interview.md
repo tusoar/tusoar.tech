@@ -51,13 +51,20 @@ int main(){
 
 1.
 
-![image](https://hackmd.io/_uploads/HkpnMQX4yx.png)
+```bash=
+soar@Universe:/usr/bin$ ls -al | grep passwd
+-rwsr-xr-x  1 root root       72072 Feb  6  2024 gpasswd
+-rwsr-xr-x  1 root root       59976 Feb  6  2024 passwd
+```
 
 * 問 rws 中的 s 是做甚麼用的
 
 2. 
 
-![image](https://hackmd.io/_uploads/By2W7mQNJg.png)
+```bash=
+soar@Universe:/proc$ ls -al | grep version
+-r--r--r--   1 root             root                           0 Feb 13 13:49 version
+```
 
 * 為什麼他的容量是 0 Byte
 
@@ -74,8 +81,7 @@ int main(){
 * ip 分享器原理
 3.
 
-![image](https://hackmd.io/_uploads/ryxW4Xm4yl.png)
-
+* 瀏覽器中的 "你與這個網頁的連線不安全"
 * 請至少說出三種原因為何造成這樣
 
 #### 密碼學
