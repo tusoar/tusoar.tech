@@ -1,5 +1,5 @@
 ---
-title:  特殊選材放榜心得
+title:  資訊工程學系 (資安組) 特殊選材放榜心得
 description: 特殊選才結束後的心得感想
 pubDate: 02 13 2025
 categories:
